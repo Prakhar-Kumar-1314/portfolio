@@ -1,4 +1,4 @@
-# Prakhar Kumar's Portfolio
+# Personal Portfolio
 
 A modern, responsive portfolio website built with React, TypeScript, and Vite. This portfolio showcases my projects, skills, and professional journey.
 
